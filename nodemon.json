@@ -1,0 +1,7 @@
+{
+    "ext": ".ts, .js, .json, .yaml",
+    "watch": ["src"],
+    "execMap": {
+        "ts": "npx ts-node"
+    }
+}

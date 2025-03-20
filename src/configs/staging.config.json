@@ -1,0 +1,7 @@
+{
+    "web": {
+        "port": "3001"
+    },
+    "general": {},
+    "unlessUrls": ["/health-check"]
+}
